@@ -5,7 +5,7 @@ Jupyter Notebooks for Qiskit 101 Sessions
 Follow the instructions in the first two sections of [HelloWorld_QiskitPatterns.ipynb](https://github.com/quantum-kittens/Qiskit-101/blob/main/HelloWorld_QiskitPatterns.ipynb) to install Qiskit and create an account on the IBM Quantum Platform.
 
 **Useful links**
-- [Qiskit advocate program](https://www.ibm.com/quantum/community#advocates)
+- [Qiskit advocate program](https://www.ibm.com/quantum/qiskit#advocates)
 - [IBM Quantum Platform](https://quantum.cloud.ibm.com/)
 - [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en)
 
